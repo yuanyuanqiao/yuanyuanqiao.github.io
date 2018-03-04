@@ -21,7 +21,7 @@ I am an associate professor in the School of Information and Communication Engin
 
 #### Journal
 
-1. **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, Nei Kato, Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data, IEEE Wireless Communications, 2018, pp(99): 40-49 \[BUPT *China* & Tohoku University *Japan*]
+1. **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, pp(99): 40-49 
 2. **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, Jie Yang, A hybrid Markov-based model for human mobility prediction, Neurocomputing, 2018, 278: 99-109 \[BUPT *China* & SICS Swedish ICT *Sweden*]
 3. **Yuanyuan Qiao**\*, Jianyang Yu, Wenhui Lin, Jie Yang, A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic, Wireless Personal Communications, 2017: 1-27 \[BUPT *China* & Aisino *China*]
 4. **Yuanyuan Qiao**\*, Yihang Cheng, Jie Yang, Jiajia Liu, Kato Nei. A Mobility Analytical Framework for Big Mobile Data in Densely Populated Area, IEEE transactions on Vehicular Technology, 2017, 66(2): 1443-1455 \[BUPT *China* & Xidian University *China* & Tohoku University *Japan*]
