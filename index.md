@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+## About Qiao
 
 <img class="profile-picture" src="sherlock.jpg">
 
