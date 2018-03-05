@@ -18,9 +18,8 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 **School of Information and Communication Engineering, BUPT**
 
-*Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group member)
-
-*Deep Learning*, for undergraduates, preparing for launch (I am one of the group member)
+- *Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group member)
+- *Deep Learning*, for undergraduates, preparing for launch (I am one of the group member)
 
 ## Experience
 
@@ -32,8 +31,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 **Beijing University of Posts and Telecommunications**
 
 Ph.D., Signal and Information Processing, 2009-2014. 
-
-Thesis: "Research and Application of Hadoop Based Network Traffic Analysis System"
+- Thesis: "Research and Application of Hadoop Based Network Traffic Analysis System"
 
 **Xidian University**
 
