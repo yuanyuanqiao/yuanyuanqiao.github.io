@@ -17,7 +17,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 [Click and find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works&sortby=pubdate)
 
-#### Journal
+### Journal
 
 1.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, pp(99): 40-49 
 2.  **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109 
@@ -32,17 +32,18 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 11.  **乔媛媛**\*，刘芳，凌艳，尹劲松，*云计算环境下 MapReduce 的资源建模与性能预测*，北京邮电大学学报，2014，37（增刊1）：115-119
 12.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
-#### Conference
+### Conference
 
 
 
-## Typography
+## Experience & Education
 
-Here is a table
 
-Year | Award | Category
+
+
+Duration | Award | Major
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
+2005-2009 | Xidian University | Electronic Information Engineering
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
