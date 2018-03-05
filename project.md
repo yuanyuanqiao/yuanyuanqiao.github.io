@@ -24,7 +24,7 @@ To initiate collaboration between two strong universities, Lulea University of T
 #### Intelligent classification system for commodity codes, 03/2017 - Present 
 - Tasks: 
     - Output five possible commodity codes for each commodity name with 96% accuracy
-    - The response of the system reaches 6000 Query Per Second
+    - The response of the system reaches 6000 Query Per Second
 - Industrialization: 
     - Has been integrated in VAT invoice system of China tax
 
