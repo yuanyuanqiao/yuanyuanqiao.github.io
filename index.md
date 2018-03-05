@@ -12,17 +12,18 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 - Mobile big data based urban computing
 - Big data analysis in Internet and Telecom
+- User behavior analysis
+
+## Teaching
+
+**School of Information and Communication Engineering, BUPT**
+*Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group member)
+*Deep Learning*, for undergraduates, preparing for launch (I am one of the group member)
 
 ## Experience
 
 - Associate Professor, BUPT, 2017 - Present
 - Assistant Professor, BUPT, 2014 - 2017 
-
-## Teaching
-
-**School of Information and Communication Engineering, BUPT**
-* Big Data Analysis Technologies and Practices *, for international students, online
-* Deep Learning, for undergraduates *, preparing for launch
 
 ## Education
 
