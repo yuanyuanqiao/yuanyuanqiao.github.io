@@ -18,8 +18,8 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 **School of Information and Communication Engineering, BUPT**
 
-- *Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group member)
-- *Deep Learning*, for undergraduates, preparing for launch (I am one of the group member)
+- *Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group members)
+- *Deep Learning*, for undergraduates, preparing for launch (I am one of the group members)
 
 ## Experience
 
