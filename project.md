@@ -22,6 +22,7 @@ To initiate collaboration between two strong universities, Lulea University of T
         
 ### A List of Participating Projects with Enterprise and Institution 
 #### Intelligent classification system for commodity codes, 03/2017 - Present 
+- My Role: working on algorithm design
 - Tasks: 
     - Output five possible commodity codes for each commodity name with 96% accuracy
     - The response of the system reaches 6000 Query Per Second
@@ -29,6 +30,7 @@ To initiate collaboration between two strong universities, Lulea University of T
     - Has been integrated in VAT invoice system of China tax
 
 #### The analysis system of floating population, 03/2016 - 02/2017
+- My Role: working on analysis method and UI design
 - Tasks: 
     - Store the massive multi-source data on a distributed platform
     - Find out who, where, with whom, what they are doing, and what will they do 
@@ -36,6 +38,7 @@ To initiate collaboration between two strong universities, Lulea University of T
     - Has been deployed in a city in China
       
 #### Monitoring system for cloud computing platform, 11/2012 - 07/2015 
+- My Role: working on system architecture and UI design
 - Tasks: 
     - Monitor the status of equipments, machines, hardwares, softwares, systems and tools in the cloud platform in real time
     - Develop a visual interface for presenting current status and alarm, and executing commend
