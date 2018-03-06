@@ -23,8 +23,8 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 ## Experience
 
-- Associate Professor, BUPT, 2017 - Present
-- Assistant Professor, BUPT, 2014 - 2017 
+- Associate Professor, School of Information and Communication Engineering, BUPT, 2017 - Present
+- Assistant Professor, School of Information and Communication Engineering, BUPT, 2014 - 2017 
 
 ## Education
 
