@@ -23,18 +23,18 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 ## Experience
 
-- Associate Professor, School of Information and Communication Engineering, BUPT, 2017 - Present
-- Assistant Professor, School of Information and Communication Engineering, BUPT, 2014 - 2017 
+- Associate Professor, School of Information and Communication Engineering, BUPT, 12/2017 - Present
+- Assistant Professor, School of Information and Communication Engineering, BUPT, 07/2014 - 12/2017 
 
 ## Education
 
 #### Beijing University of Posts and Telecommunications
 
-Ph.D., Signal and Information Processing, 2009-2014
+Ph.D., Signal and Information Processing, 09/2009-06/2014
 - Thesis: "Research and Application of Hadoop Based Network Traffic Analysis System"
 
 #### Xidian University
 
-B.A., Electronic Information Engineering, 2004-2009
+B.A., Electronic Information Engineering, 09/2004-06/2009
 
 
