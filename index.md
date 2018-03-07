@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="YUANYUAN.jpg">
+<img class="profile-picture" src="YUANYUAN_s.jpg">
 
 I am an associate professor in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China. I am also a member of Research Center of Network Monitoring and Analysis, and Center for Data Science of BUPT.
 
