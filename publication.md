@@ -6,7 +6,7 @@ layout: default
 
 ## Journal
 
-1.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](qiao2018characterizing.pdf)
+1.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
 2.  **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](qiao2018hybrid.pdf)
 3.  **Yuanyuan Qiao**\*, Jianyang Yu, Wenhui Lin, and Jie Yang, *A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic*, Wireless Personal Communications, 2017: 1-27. 
 4.  **Yuanyuan Qiao**\*, Yihang Cheng, Jie Yang, Jiajia Liu, and Kato Nei, *A Mobility Analytical Framework for Big Mobile Data in Densely Populated Area*, IEEE transactions on Vehicular Technology, 2017, 66(2): 1443-1455. [PDF](qiao2017mobility.pdf)
