@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Click and find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works&sortby=pubdate)
+[Click and find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
 
