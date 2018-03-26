@@ -9,7 +9,7 @@ layout: default
 Build network computing model based on human online and offline behavior, to discover and identify urban functional area and its spatio-temporal evolution. In order to understand the mechanism of interaction between human and urban functional area, and further analyze the law of emerging, changing, and evolution trend, we tend to draw personal attributes to explore the driving force of development of urban functional area.
  
 ### National Natural Science Foundation of China (NSFC)
-#### Analysis on the overlap and mutual enlargement of online and offline social networks, Duration: 01/2017 - 12/2020 
+#### Analysis on the overlap and mutual enlargement of online and offline social networks, 01/2017 - 12/2020 
 - My Role: Leading researcher, working on model design and data driven analysis
 - Main Goal: 
 Quantize the interplay between online social network and offline social network and investigating network dynamics in the view of massive real-world mobile internet traffic data. Specifically, the online and offline social network are respectively constructed based on online behavior and mobility behavior. 
