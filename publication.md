@@ -6,7 +6,7 @@ layout: default
 
 ## Journal
 
-12.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
+1.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
 11.  **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](\publications\journal\qiao2018hybrid.pdf)
 10.  **Yuanyuan Qiao**\*, Jianyang Yu, Wenhui Lin, and Jie Yang, *A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic*, Wireless Personal Communications, 2017: 1-27. [PDF](\publications\journal\qiao2017human.pdf)
 9.  **Yuanyuan Qiao**\*, Yihang Cheng, Jie Yang, Jiajia Liu, and Kato Nei, *A Mobility Analytical Framework for Big Mobile Data in Densely Populated Area*, IEEE transactions on Vehicular Technology, 2017, 66(2): 1443-1455. [PDF](\publications\journal\qiao2017mobility.pdf)
@@ -20,7 +20,7 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
-15.  Shuangshuang Han,  **Yuanyuan Qiao**\*, Yanting Zhang, Wenhui Lin, and Jie Yang, *Analyze Users’ Online Shopping Behavior Using Interconnected Online Interest-Product Network*, IEEE Wireless Communications and Networking Conference, WCNC 2018, Barcelona, Spain, 2018.4.15-18 
+1.  Shuangshuang Han,  **Yuanyuan Qiao**\*, Yanting Zhang, Wenhui Lin, and Jie Yang, *Analyze Users’ Online Shopping Behavior Using Interconnected Online Interest-Product Network*, IEEE Wireless Communications and Networking Conference, WCNC 2018, Barcelona, Spain, 2018.4.15-18 
 14.  Zheng Liu,  **Yuanyuan Qiao**\*, Siyan Tao, Wenhui Lin, and Jie Yang, *Analyzing Human Mobility and Social Relationships from Cellular Network Data*, 13th International Conference on Network and Service Management Workshop on Internet Charging and QoS Technologies, CNSM WS on ICQT 2017, Tokyo, Japan, 2017.11.26-30 
 13.  Fan Duo,  **Yuanyuan Qiao**, and Jie Yang, *Analysis and Modeling of Ride-sharing Service User Behavior in Urban Area*, 6th IEEE/CIC International Conference on Communications in China, ICCC2017, Qingdao, P.R. China, 2017.10.22-24
 12.  Qi Li\*, **Yuanyuan Qiao**\*, Wenhui Lin, and and Jie Yang, *Understanding Correlation Between Offline Mobility and Online Browsing Tendency in Mobile Network*, 8th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications Workshop on Personalised Mobile Applications for Smart Cities and Smart Citizens, IEEE PIMRC  WS on PMA 2017, Montreal, Canada, 2017.10.08-13     
