@@ -5,7 +5,7 @@ layout: default
 [Click and find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
-1. Qiujian Lv, **Yuanyuan Qiao**, Yi Zhang, Fehmi Ben Abdesslem, Wenhui Lin, and Jie Yang, *Measuring Geospatial Properties: Relating Online Content Browsing Behaviors to Users’ Points of Interest*, Wireless Personal Communications, 2018: 1-30. [PDF](\publications\journal\lv2018measuring.pdf)
+1. Qiujian Lv*, **Yuanyuan Qiao**, Yi Zhang, Fehmi Ben Abdesslem, Wenhui Lin, and Jie Yang, *Measuring Geospatial Properties: Relating Online Content Browsing Behaviors to Users’ Points of Interest*, Wireless Personal Communications, 2018: 1-30. [PDF](\publications\journal\lv2018measuring.pdf)
 12.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
 11.  **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](\publications\journal\qiao2018hybrid.pdf)
 10.  **Yuanyuan Qiao**\*, Jianyang Yu, Wenhui Lin, and Jie Yang, *A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic*, Wireless Personal Communications, 2017: 1-27. [PDF](\publications\journal\qiao2017human.pdf)
