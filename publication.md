@@ -21,6 +21,7 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
+1.  Qing Miao, **Yuanyuan Qiao**\*, Jie Yang, *Research of Urban Land Use and Regional Functions Based on Mobile Data Traffic*, IEEE International Conference on Data Science in Cyberspace, CDS 2018, Guangzhou, China, 2018.6.18-21
 1.  Shuangshuang Han,  **Yuanyuan Qiao**\*, Yanting Zhang, Wenhui Lin, and Jie Yang, *Analyze Users’ Online Shopping Behavior Using Interconnected Online Interest-Product Network*, IEEE Wireless Communications and Networking Conference, WCNC 2018, Barcelona, Spain, 2018.4.15-18 
 21.  Zheng Liu,  **Yuanyuan Qiao**\*, Siyan Tao, Wenhui Lin, and Jie Yang, *Analyzing Human Mobility and Social Relationships from Cellular Network Data*, 13th International Conference on Network and Service Management Workshop on Internet Charging and QoS Technologies, CNSM WS on ICQT 2017, Tokyo, Japan, 2017.11.26-30 
 20.  Fan Duo,  **Yuanyuan Qiao**, and Jie Yang, *Analysis and Modeling of Ride-sharing Service User Behavior in Urban Area*, 6th IEEE/CIC International Conference on Communications in China, ICCC2017, Qingdao, P.R. China, 2017.10.22-24
