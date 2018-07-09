@@ -30,11 +30,11 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 #### Beijing University of Posts and Telecommunications
 
-Ph.D., Signal and Information Processing, 09/2009-06/2014
+Ph.D., Signal and Information Processing, 09/2009 - 06/2014
 - Thesis: "Research and Application of Hadoop Based Network Traffic Analysis System"
 
 #### Xidian University
 
-B.A., Electronic Information Engineering, 09/2004-06/2009
+B.A., Electronic Information Engineering, 09/2004 - 06/2009
 
 
