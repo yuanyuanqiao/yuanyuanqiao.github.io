@@ -21,7 +21,8 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
-1. Zhizhuang Xing, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
+1. Jiangyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Classification of transaction behavior in tax invoices using compositional CNN-RNN model, UBICOMP2018, Singapore, 2018.10.8-12
+27. Zhizhuang Xing, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
 26. Aoxiang Cao, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
 25. Yi Zhang, **Yuanyuan Qiao**\*, Nanfei Shu, Yizhe Song, and Jie Yang, Find your online social friends from mobile Internet traffic, IEEE IC-NIDC2018, Gui Yang, P.R. China, 2018.8.22-24
 24. Yanting Zhang, Shuaiyu Jin, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE CIC/ICCC 2018, Beijing, P.R. China, 2018.8.16-18
