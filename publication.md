@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Click and find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
+[Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
 1. **Yuanyuan Qiao**\*, Yan Wu, Yaobin He, Libo Hao, Wenhui Lin, and Jie Yang, *Linking User Online Behavior across Domains with Internet Traffic*, Journal of Universal Computer Science, 2018, 24(3): 277-301. [PDF](\publications\journal\qiao2018linking.pdf)
