@@ -35,6 +35,6 @@ Ph.D., Signal and Information Processing, 09/2009 - 06/2014
 
 #### Xidian University
 
-B.A., Electronic Information Engineering, 09/2004 - 06/2009
+B.A., Electronic Information Engineering, 09/2005 - 06/2009
 
 
