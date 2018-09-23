@@ -22,10 +22,11 @@ layout: default
 
 ## Conference
 1. Zhizhuang Xing, Wenhui Lin, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
-27. Jianyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Classification of transaction behavior in tax invoices using compositional CNN-RNN model (Poster), UBICOMP2018, Singapore, 2018.10.8-12
-26. Aoxiang Cao, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
-25. Yi Zhang, **Yuanyuan Qiao**\*, Nanfei Shu, Yizhe Song, and Jie Yang, Find your online social friends from mobile Internet traffic, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
-24. Yanting Zhang, Shuaiyu Jin, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE CIC/ICCC 2018, Beijing, P.R. China, 2018.8.16-18
+28. Jianyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Classification of transaction behavior in tax invoices using compositional CNN-RNN model (Poster), UBICOMP2018, Singapore, 2018.10.8-12
+27. Aoxiang Cao, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
+26. Yi Zhang, **Yuanyuan Qiao**\*, Nanfei Shu, Yizhe Song, and Jie Yang, Find your online social friends from mobile Internet traffic, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
+25. Yanting Zhang, Shuaiyu Jin, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Exploring Urban Spatial Hotspots' Properties Using Inter-Connected User-Location Networks, IEEE CIC/ICCC 2018, Beijing, P.R. China, 2018.8.16-18
+24. **Yuanyuan Qiao**\*, Fan Duo, Jie Yang, User Identity Linkage Across Websites By Neural Networks, The Ninth International Conference on Complex Systems, ICCS2018, Cambridge, MA, USA, 2018.7.22-27
 23.  Qing Miao, **Yuanyuan Qiao**\*, and Jie Yang, *Research of Urban Land Use and Regional Functions Based on Mobile Data Traffic*, IEEE International Conference on Data Science in Cyberspace,  2018, Guangzhou, China, 2018.6.18-21
 22.  Shuangshuang Han,  **Yuanyuan Qiao**\*, Yanting Zhang, Wenhui Lin, and Jie Yang, *Analyze Users’ Online Shopping Behavior Using Interconnected Online Interest-Product Network*, IEEE Wireless Communications and Networking Conference, WCNC 2018, Barcelona, Spain, 2018.4.15-18 
 21.  Zheng Liu,  **Yuanyuan Qiao**\*, Siyan Tao, Wenhui Lin, and Jie Yang, *Analyzing Human Mobility and Social Relationships from Cellular Network Data*, 13th International Conference on Network and Service Management Workshop on Internet Charging and QoS Technologies, CNSM WS on ICQT 2017, Tokyo, Japan, 2017.11.26-30 
