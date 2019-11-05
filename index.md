@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="YUANYUAN_s.jpg">
 
-I am an associate professor in the School of Information and Communication Engineering, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. I am also a member of Research Center of Network Monitoring and Analysis, and Artificial Intelligence Institute of BUPT. I am currently a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of MIT.
+I am an associate professor in the School of Information and Communication Engineering, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. I am also a member of Research Center of Network Monitoring and Analysis, and Artificial Intelligence Institute of BUPT. I am currently a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of Massachusetts Institute of Technology (MIT).
 
 Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu 
 
