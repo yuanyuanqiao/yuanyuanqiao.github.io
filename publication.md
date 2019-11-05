@@ -5,7 +5,8 @@ layout: default
 [Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
-1. **Yuanyuan Qiao**\*, Yan Wu, Yaobin He, Libo Hao, Wenhui Lin, and Jie Yang, *Linking User Online Behavior across Domains with Internet Traffic*, Journal of Universal Computer Science, 2018, 24(3): 277-301. [PDF](\publications\journal\qiao2018linking.pdf)
+15. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*. IEEE transactions on neural networks and learning systems, 2019. [PDF](\publications\journal\qiao2019siamese.pdf)
+14. **Yuanyuan Qiao**\*, Yan Wu, Yaobin He, Libo Hao, Wenhui Lin, and Jie Yang, *Linking User Online Behavior across Domains with Internet Traffic*, Journal of Universal Computer Science, 2018, 24(3): 277-301. [PDF](\publications\journal\qiao2018linking.pdf)
 13.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
 12.  **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](\publications\journal\qiao2018hybrid.pdf)
 11.  **Yuanyuan Qiao**\*, Jianyang Yu, Wenhui Lin, and Jie Yang, *A Human-in-the-Loop Architecture for Mobile Network: From the View of Large Scale Mobile Data Traffic*, Wireless Personal Communications, 2018, 102(3): 2233–2259. [PDF](\publications\journal\qiao2017human.pdf)
@@ -21,7 +22,8 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
-1. Zhizhuang Xing, Wenhui Lin, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
+30. Jianyang Yu, Yuanyuan Qiao, Nanfei Shu, Kewu Sun, Shenshen Zhou, Jie Yang, Neural Network Based Transaction Classification System for Chinese Transaction Behavior Analysis, 2019 IEEE International Congress on Big Data (BigDataCongress), Milan, Italy, 2019.7.8-13
+29. Zhizhuang Xing, Wenhui Lin, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
 28. Jianyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Classification of transaction behavior in tax invoices using compositional CNN-RNN model (Poster), UBICOMP2018, Singapore, 2018.10.8-12
 27. Aoxiang Cao, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
 26. Yi Zhang, **Yuanyuan Qiao**\*, Nanfei Shu, Yizhe Song, and Jie Yang, Find your online social friends from mobile Internet traffic, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
