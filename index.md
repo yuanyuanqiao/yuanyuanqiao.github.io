@@ -4,9 +4,9 @@ layout: default
 
 <img class="profile-picture" src="YUANYUAN_s.jpg">
 
-I am an associate professor in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China. I am also a member of Research Center of Network Monitoring and Analysis, and Center for Data Science of BUPT.
+I am an associate professor in the School of Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China. I am also a member of Research Center of Network Monitoring and Analysis, and Artificial Intelligence Institute of BUPT. I am currently a visiting scholar in Senseable City Laboratory of MIT.
 
-Contact me with: yyqiao AT bupt "dot" edu "dot" cn
+Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu 
 
 ## Research Interest
 
@@ -18,11 +18,12 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn
 
 #### School of Information and Communication Engineering, BUPT
 
+- *Deep Learning*, for undergraduates
 - *Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group members)
-- *Deep Learning*, for undergraduates, preparing for launch (I am one of the group members)
 
 ## Experience
 
+- Visiting Scholar, Senseable City Laboratory, MIT, 09/2019 - Present
 - Associate Professor, School of Information and Communication Engineering, BUPT, 12/2017 - Present
 - Assistant Professor, School of Information and Communication Engineering, BUPT, 07/2014 - 12/2017 
 
