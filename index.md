@@ -23,7 +23,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 
 ## Experience
 
-- Visiting Scholar, Senseable City Laboratory, MIT, 09/2019 - Present
+- Visiting Scholar, Department of Urban Studies and Planning, MIT, 09/2019 - Present
 - Associate Professor, School of Information and Communication Engineering, BUPT, 12/2017 - Present
 - Assistant Professor, School of Information and Communication Engineering, BUPT, 07/2014 - 12/2017 
 
