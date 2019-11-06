@@ -22,7 +22,8 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
-30. Jianyang Yu, Yuanyuan Qiao, Nanfei Shu, Kewu Sun, Shenshen Zhou, Jie Yang, Neural Network Based Transaction Classification System for Chinese Transaction Behavior Analysis, 2019 IEEE International Congress on Big Data (BigDataCongress), Milan, Italy, 2019.7.8-13
+31. Jianyang Yu, Yuanyuan Qiao, Nanfei Shu, Kewu Sun, Shenshen Zhou, Jie Yang, Neural Network Based Transaction Classification System for Chinese Transaction Behavior Analysis, 2019 IEEE International Congress on Big Data (BigDataCongress), Milan, Italy, 2019.7.8-13
+30. Jianyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Chinese Transaction Behavior Analysis with Recommender System Based on Transaction Behavior Categories (Poster), AAAI2019, Honolulu, Hawaii, USA, 2019.1.27-2.1
 29. Zhizhuang Xing, Wenhui Lin, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, Inferring Land Use Type in Urban Area with Mobile Big Data, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
 28. Jianyang Yu, Yuanyuan Qiao, Kewu Sun, Hao Zhang, and Jie Yang, Classification of transaction behavior in tax invoices using compositional CNN-RNN model (Poster), UBICOMP2018, Singapore, 2018.10.8-12
 27. Aoxiang Cao, **Yuanyuan Qiao**\*, Kewu Sun, Hao Zhang, and Jie Yang, Network traffic analysis and prediction of Hotspot in cellular network, IEEE IC-NIDC2018, Guiyang, P.R. China, 2018.8.22-24
