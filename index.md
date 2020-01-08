@@ -12,7 +12,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 
 - Mobile big data based urban computing
 - Big data analysis in Internet and Telecom
-- Towards Artificial Situation Awareness by Autonomous Surface Vehicles
+- Towards artificial situation awareness by autonomous surface vehicles
 
 ## Teaching
 
