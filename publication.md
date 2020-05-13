@@ -5,8 +5,8 @@ layout: default
 [Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
-17. Yuewei Wu, Wutong Zhang, Long Zhang, Yuanyuan Qiao, Jie Yang, and Cheng Cheng, *A multi-clustering algorithm to solve driving cycle prediction problems based on unbalanced data sets: a Chinese case study*. Sensors, 2020, 20(9): 2448. [PDF](\publications\journal\wu2020multi.pdf)
-16. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*. IEEE transactions on neural networks and learning systems, 2020. [PDF](\publications\journal\qiao2019siamese.pdf)
+17. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*. IEEE transactions on neural networks and learning systems, 2020. [PDF](\publications\journal\qiao2019siamese.pdf)
+16. Yuewei Wu, Wutong Zhang, Long Zhang, Yuanyuan Qiao, Jie Yang, and Cheng Cheng, *A multi-clustering algorithm to solve driving cycle prediction problems based on unbalanced data sets: a Chinese case study*. Sensors, 2020, 20(9): 2448. [PDF](\publications\journal\wu2020multi.pdf)
 15. Yuewei Wu, **Yuanyuan Qiao**\*, and Jie Yang, *Urban Functional Area Division Based on Cell Tower Classification*. IEEE Access, 2019, 7:171503 - 171514. [PDF](\publications\journal\qiao2019urban.pdf)
 14. **Yuanyuan Qiao**\*, Yan Wu, Yaobin He, Libo Hao, Wenhui Lin, and Jie Yang, *Linking User Online Behavior across Domains with Internet Traffic*, Journal of Universal Computer Science, 2018, 24(3): 277-301. [PDF](\publications\journal\qiao2018linking.pdf)
 13.  **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
