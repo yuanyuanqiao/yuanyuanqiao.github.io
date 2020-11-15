@@ -25,7 +25,9 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
-32. Ke Mei, Chuang Zhu, Lei Jiang, Jun Liu, and Yuanyuan Qiao, *Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning*, ICASSP 2020, Barcelona, Spain, 2020.5.4-8
+34. Yuchen Qiu, Yuanyuan Qiao, Shuo Yang, Jie Yang, Tax-KG: Taxation Big Data Viusualization System for Knowledge Graph, 2020 IEEE 5th International Conference on Signal and Image Processing (ICSIP), Nanjing, China, 2020.7.3-5
+33. Ke Mei, Chuang Zhu, Lei Jiang, Jun Liu, and Yuanyuan Qiao, *Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning*, ICASSP 2020, Barcelona, Spain, 2020.5.4-8
+32. Yuchen Qiu, Yuanyuan Qiao, Shengmin Wang, Jie Yang, *Residence and Workplace Recovery: User Privacy Risk in Mobility Data*, Proceedings of the 2020 Intelligent on Intelligent Cross-Data Analysis and Retrieval Workshop. 2020: 15-20.
 31. Jianyang Yu, **Yuanyuan Qiao**, Nanfei Shu, Kewu Sun, Shenshen Zhou, Jie Yang, *Neural Network Based Transaction Classification System for Chinese Transaction Behavior Analysis*, 2019 IEEE International Congress on Big Data (BigDataCongress), Milan, Italy, 2019.7.8-13
 30. Jianyang Yu, **Yuanyuan Qiao**, Kewu Sun, Hao Zhang, and Jie Yang, *Chinese Transaction Behavior Analysis with Recommender System Based on Transaction Behavior Categories* (Poster), AAAI2019, Honolulu, Hawaii, USA, 2019.1.27-2.1
 29. Zhizhuang Xing, Wenhui Lin, **Yuanyuan Qiao**\*, Hao Zhang, Kewu Sun, and Jie Yang, *Inferring Land Use Type in Urban Area with Mobile Big Data*, ICCC2018, Chengdu, P.R. China, 2018.12.7-10
