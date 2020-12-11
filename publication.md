@@ -5,7 +5,7 @@ layout: default
 [Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
-18. Guannan Xu, Weijie Hu, Yuanyuan Qiao, and **Yuan Zhou**\*, *Mapping an innovation ecosystem using network clustering and community identification: a multi-layered framework*, Scientometrics, Scientometrics, 2020. [PDF](\publications\journal\xu2020mapping.pdf)
+18. Guannan Xu, Weijie Hu, Yuanyuan Qiao, and **Yuan Zhou**\*, *Mapping an innovation ecosystem using network clustering and community identification: a multi-layered framework*, Scientometrics, Scientometrics, 2020, 124, 2057–2081. [PDF](\publications\journal\xu2020mapping.pdf)
 17. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*, IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(8): 2741-2751. [PDF](\publications\journal\qiao2019siamese.pdf)
 16. Yuewei Wu, Wutong Zhang, Long Zhang, Yuanyuan Qiao, Jie Yang, and Cheng Cheng, *A multi-clustering algorithm to solve driving cycle prediction problems based on unbalanced data sets: a Chinese case study*, Sensors, 2020, 20(9): 2448. [PDF](\publications\journal\wu2020multi.pdf)
 15. Yuewei Wu, **Yuanyuan Qiao**\*, and Jie Yang, *Urban Functional Area Division Based on Cell Tower Classification*, IEEE Access, 2019, 7:171503 - 171514. [PDF](\publications\journal\qiao2019urban.pdf)
