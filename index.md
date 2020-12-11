@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="YUANYUAN_photo.jpg">
 
-Yuanyuan Qiao is an associate professor in the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. She is also a member of Intelligent Perception and Computing Research Center, and Artificial Intelligence Institute of BUPT. Currently, she is a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of Massachusetts Institute of Technology (MIT).
+Yuanyuan Qiao is an associate professor in the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. She is also a member of Intelligent Perception and Computing Research Center, and Artificial Intelligence Institute of BUPT. She was a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of Massachusetts Institute of Technology (MIT) during 2019 and 2020.
 
 Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu 
 
@@ -24,7 +24,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 ## Experience
 
 - Associate Professor, School of Artificial Intelligence, BUPT, 01/2020 - Present
-- Visiting Scholar, Department of Urban Studies and Planning, MIT, 09/2019 - Present
+- Visiting Scholar, Department of Urban Studies and Planning, MIT, 09/2019 - 10/2020
 - Associate Professor, School of Information and Communication Engineering, BUPT, 12/2017 - 01/2020
 - Assistant Professor, School of Information and Communication Engineering, BUPT, 07/2014 - 12/2017 
 
