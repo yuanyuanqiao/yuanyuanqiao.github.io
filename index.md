@@ -20,6 +20,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 
 - *Deep Learning*, for undergraduates
 - *Big Data Analysis Technologies and Practices*, for international students, online (I am one of the group members)
+- *Fundamentals of Data Science*, for undergraduates
 
 ## Experience
 
