@@ -10,7 +10,7 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 
 ## Research Interest
 
-- Mobile big data based urban computing
+- User behavior analysis in multiple scenarios
 - Big data analysis in Internet and Telecom
 - Towards artificial situation awareness by autonomous surface vehicle
 
