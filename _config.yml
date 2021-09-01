@@ -2,6 +2,7 @@ title: YUANYUAN QIAO
 url: "yuanyuanqiao.github.io"
 
 markdown: kramdown
+remote_theme           : "mmistakes/minimal-mistakes"
 
 tracking_id: #
 
