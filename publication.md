@@ -26,6 +26,9 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Conference
+
+37. Shengmin Wang, Yi Chu, Zhenhao Qiao, Lan Ma, Hao Zhang, Zehao Wang, and Yuanyuan Qiao, *TAX-B2BREC: Multi-Stage Cascade Downstream Company Recommender System based on Taxation Data* (Best Paper Reward), 2021 7th International Conference on Network Intelligence and Digital Content (IC-NIDC 2021), Beijing, P.R. China, 2021.11.17-19.
+36. Yi Chu, Ruixiang Li, Fang Wang, Junlong Ren, Yuanyuan Qiao, and Jie Yang, *Sequence Elimination Algorithm for Multi-Server Multi-User Mobile Edge Computing Offloading*, 2021 7th International Conference on Network Intelligence and Digital Content (IC-NIDC 2021), Beijing, P.R. China, 2021.11.17-19.
 35. Yuchen Qiu, Yuanyuan Qiao, Shuo Yang, Jie Yang, *Tax-KG: Taxation Big Data Viusualization System for Knowledge Graph*, 2020 IEEE 5th International Conference on Signal and Image Processing (ICSIP), Nanjing, China, 2020.7.3-5
 34. Ke Mei, Chuang Zhu, Lei Jiang, Jun Liu, and Yuanyuan Qiao, *Cross-stained Segmentation from Renal Biopsy Images Using Multi-level Adversarial Learning*, ICASSP 2020, Barcelona, Spain, 2020.5.4-8
 33. Yuchen Qiu, Yuanyuan Qiao, Shengmin Wang, Jie Yang, *Residence and Workplace Recovery: User Privacy Risk in Mobility Data*, Proceedings of the 2020 Intelligent on Intelligent Cross-Data Analysis and Retrieval Workshop. 2020: 15-20.
