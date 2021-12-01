@@ -40,4 +40,18 @@ Ph.D., Signal and Information Processing, 09/2009 - 06/2014
 
 B.A., Electronic Information Engineering, 09/2005 - 06/2009
 
+## Awards
+
+#### 2020 Beijing Science and Technology Progress Award
+
+- Second prize, ranked third among the ten participants
+
+#### 2019 Beijing Young College Teachers' Basic Teaching Skills Competition
+
+- Second prize
+- Award for most popular with students
+
+#### 2018 BUPT Teaching Competition
+
+- First prize
 
