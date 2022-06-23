@@ -5,6 +5,10 @@ layout: default
 [Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
 ## Journal
+
+22. CeLi, Qiujian Lv, Ning Li, Yan Wang\*, Degang Sun, **Yuanyuan Qiao**, *A novel deep framework for dynamic malware detection based on API sequence intrinsic features*, Computers & Security, 2022, 116: 102686. [PDF](\publications\journal\li2022novel.pdf)
+21. Didi Yin, Siyuan Cheng, Boxu Pan, **Yuanyuan Qiao**, Wei Zhao, Dongyu Wang*. *Chinese Named Entity Recognition Based on Knowledge Based Question Answering System*, Applied Sciences, 2022, 12(11): 5373. [PDF](\publications\journal\yin2022chinese.pdf)
+20. Ning Kang, Guannan Xu\*, Xianzhong Mu, Hongrui Yang, **Yuanyuan Qiao**. *How virtual clusters affect innovation performance: Evidence from global hydropower industry, Journal of Cleaner Production*, 2022: 131554. [PDF](\publications\journal\kang2022virtual.pdf)
 19. Guannan Xu, Weijie Hu, **Yuanyuan Qiao**, and Yuan Zhou\*, *Mapping an innovation ecosystem using network clustering and community identification: a multi-layered framework*, Scientometrics, Scientometrics, 2020, 124: 2057–2081. [PDF](\publications\journal\xu2020mapping.pdf)
 18. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang\*, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*, IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(8): 2741-2751. [PDF](\publications\journal\qiao2019siamese.pdf)
 17. Yuewei Wu*, Wutong Zhang, Long Zhang, **Yuanyuan Qiao**, Jie Yang, and Cheng Cheng, *A multi-clustering algorithm to solve driving cycle prediction problems based on unbalanced data sets: a Chinese case study*, Sensors, 2020, 20(9): 2448. [PDF](\publications\journal\wu2020multi.pdf)
@@ -27,6 +31,7 @@ layout: default
 
 ## Conference
 
+39. YaoChen, Biao Zhang, Zhen Li, **Yuanyuan Qiao**, *Ship Detection with Optical Image Based on Attention and Loss Improved YOLO*, 2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022), Chengdu, China, 2022.7.22-24
 38. Mingwei Xu, Yu Zhou, **Yuanyuan Qiao**, Kai Xu, Yu Wang, Jie Yang, *ECRaft: A Raft Based Consensus Protocol for Highly Available and Reliable Erasure-Coded Storage Systems*, 2021 27th International Conference on Parallel and Distributed Systems.(ICPADS), Beijing, China, 2021.12.13-16
 37. Shengmin Wang, Yi Chu, Zhenhao Qiao, Lan Ma, Hao Zhang, Zehao Wang, and **Yuanyuan Qiao**, *TAX-B2BREC: Multi-Stage Cascade Downstream Company Recommender System based on Taxation Data* (Best Paper Reward), 2021 7th International Conference on Network Intelligence and Digital Content (IC-NIDC 2021), Beijing, P.R. China, 2021.11.17-19.
 36. Yi Chu, Ruixiang Li, Fang Wang, Junlong Ren, **Yuanyuan Qiao**, and Jie Yang, *Sequence Elimination Algorithm for Multi-Server Multi-User Mobile Edge Computing Offloading*, 2021 7th International Conference on Network Intelligence and Digital Content (IC-NIDC 2021), Beijing, P.R. China, 2021.11.17-19.
