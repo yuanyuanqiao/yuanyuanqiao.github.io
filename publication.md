@@ -6,6 +6,7 @@ layout: default
 
 ## Journal
 
+23. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2022survey.pdf) [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
 22. CeLi, Qiujian Lv, Ning Li, Yan Wang\*, Degang Sun, **Yuanyuan Qiao**, *A novel deep framework for dynamic malware detection based on API sequence intrinsic features*, Computers & Security, 2022, 116: 102686. [PDF](\publications\journal\li2022novel.pdf)
 21. Didi Yin, Siyuan Cheng, Boxu Pan, **Yuanyuan Qiao**, Wei Zhao, Dongyu Wang*. *Chinese Named Entity Recognition Based on Knowledge Based Question Answering System*, Applied Sciences, 2022, 12(11): 5373. [PDF](\publications\journal\yin2022chinese.pdf)
 20. Ning Kang, Guannan Xu\*, Xianzhong Mu, Hongrui Yang, **Yuanyuan Qiao**. *How virtual clusters affect innovation performance: Evidence from global hydropower industry*, Journal of Cleaner Production, 2022: 131554. [PDF](\publications\journal\kang2022virtual.pdf)
