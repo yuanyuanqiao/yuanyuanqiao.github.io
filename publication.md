@@ -4,10 +4,23 @@ layout: default
 
 [Find me in Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=OwtSap4AAAAJ&view_op=list_works)
 
-## Journal
+## Highlights
 
-23. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2022survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
-22. CeLi, Qiujian Lv, Ning Li, Yan Wang\*, Degang Sun, **Yuanyuan Qiao**, *A novel deep framework for dynamic malware detection based on API sequence intrinsic features*, Computers & Security, 2022, 116: 102686. [PDF](\publications\journal\li2022novel.pdf)
+9. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2022survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
+8. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington, DC, USA, Feb.7-14, 2023.
+7. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang\*, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*, IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(8): 2741-2751. [PDF](\publications\journal\qiao2019siamese.pdf)
+6. **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
+5. **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](\publications\journal\qiao2018hybrid.pdf)
+4.  **Yuanyuan Qiao**\*, Yihang Cheng, Jie Yang, Jiajia Liu, and Nei Kato, *A Mobility Analytical Framework for Big Mobile Data in Densely Populated Area*, IEEE transactions on Vehicular Technology, 2017, 66(2): 1443-1455. [PDF](\publications\journal\qiao2017mobility.pdf)
+3. Qiujian Lv\*, **Yuanyuan Qiao**\*, Nirwan Ansari\*, Jun Liu\*, and Jie Yang\*, *Big data driven hidden Markov model based individual mobility prediction at points of interest*, IEEE Transactions on Vehicular Technology, 2017, 66(6): 5204-5216. [PDF](\publications\journal\lv2017big.pdf)
+2. **Yuanyuan Qiao**\*, Xiaoxing Zhao, Jie Yang, and Jiajia Liu, *Mobile Big Data Driven Rating Framework: Measure the Relationship between Human Mobility and App Usage Behavior*, IEEE Network, 2016, 30(3): 14-21. [PDF](\publications\journal\qiao2016mobile.pdf)
+1. Jie Yang, **Yuanyuan Qiao**, Xinyu Zhang, Haiyang He, Fang Liu, and Gang Cheng, *Characterizing user behavior in mobile internet*, IEEE transactions on emerging topics in computing, 2015, 3(1): 95-106. [PDF](\publications\journal\yang2015characterizing.pdf) 
+
+## Full Journal Paper Lists
+
+24. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2022survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
+23. Qing Miao, Min Li, Wenhui Lin, Zhigang Wang, Huiqin Shao, Junwei Xie, NanFei Shu and **Yuanyuan Qiao**\*, *Human mobility prediction with calibration for noisy trajectories*, Electronics, 2022, 11(20): 3362.
+22. Ce Li, Qiujian Lv, Ning Li, Yan Wang\*, Degang Sun, **Yuanyuan Qiao**, *A novel deep framework for dynamic malware detection based on API sequence intrinsic features*, Computers & Security, 2022, 116: 102686. [PDF](\publications\journal\li2022novel.pdf)
 21. Didi Yin, Siyuan Cheng, Boxu Pan, **Yuanyuan Qiao**, Wei Zhao, Dongyu Wang*. *Chinese Named Entity Recognition Based on Knowledge Based Question Answering System*, Applied Sciences, 2022, 12(11): 5373. [PDF](\publications\journal\yin2022chinese.pdf)
 20. Ning Kang, Guannan Xu\*, Xianzhong Mu, Hongrui Yang, **Yuanyuan Qiao**. *How virtual clusters affect innovation performance: Evidence from global hydropower industry*, Journal of Cleaner Production, 2022: 131554. [PDF](\publications\journal\kang2022virtual.pdf)
 19. Guannan Xu, Weijie Hu, **Yuanyuan Qiao**, and Yuan Zhou\*, *Mapping an innovation ecosystem using network clustering and community identification: a multi-layered framework*, Scientometrics, Scientometrics, 2020, 124: 2057–2081. [PDF](\publications\journal\xu2020mapping.pdf)
@@ -30,8 +43,10 @@ layout: default
 2.  **乔媛媛**\*，刘芳，凌艳，尹劲松，*云计算环境下 MapReduce 的资源建模与性能预测*，北京邮电大学学报，2014，37（增刊1）：115-119
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
-## Conference
+## Full Conference Paper List
 
+41. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington, DC, USA, Feb.7-14, 2023.
+40. Jiawei Wang, Tianyu Song, Yan Zhang, Shengmin Wang, Wenhui Lin, Zhigang Wang and **Yuanyuan Qiao**\*, *Decoupled Teacher for Semi-Supervised Drone Detection*, 2022 IEEE the 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022.12.9-12
 39. YaoChen, Biao Zhang, Zhen Li, **Yuanyuan Qiao**, *Ship Detection with Optical Image Based on Attention and Loss Improved YOLO*, 2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022), Chengdu, China, 2022.7.22-24
 38. Mingwei Xu, Yu Zhou, **Yuanyuan Qiao**, Kai Xu, Yu Wang, Jie Yang, *ECRaft: A Raft Based Consensus Protocol for Highly Available and Reliable Erasure-Coded Storage Systems*, 2021 27th International Conference on Parallel and Distributed Systems.(ICPADS), Beijing, China, 2021.12.13-16
 37. Shengmin Wang, Yi Chu, Zhenhao Qiao, Lan Ma, Hao Zhang, Zehao Wang, and **Yuanyuan Qiao**, *TAX-B2BREC: Multi-Stage Cascade Downstream Company Recommender System based on Taxation Data* (Best Paper Reward), 2021 7th International Conference on Network Intelligence and Digital Content (IC-NIDC 2021), Beijing, P.R. China, 2021.11.17-19.
