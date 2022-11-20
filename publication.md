@@ -7,7 +7,7 @@ layout: default
 ## Highlights
 
 9. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, submitted to IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2022survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
-8. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington, DC, USA, Feb.7-14, 2023.
+8. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington DC, USA, Feb.7-14, 2023.
 7. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang\*, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*, IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(8): 2741-2751. [PDF](\publications\journal\qiao2019siamese.pdf)
 6. **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
 5. **Yuanyuan Qiao**\*, Zhongwei Si, Yanting Zhang, Fehmi Ben Abdesslem, Xinyu Zhang, and Jie Yang, *A hybrid Markov-based model for human mobility prediction*, Neurocomputing, 2018, 278: 99-109. [PDF](\publications\journal\qiao2018hybrid.pdf)
@@ -45,7 +45,7 @@ layout: default
 
 ## Full Conference Paper List
 
-41. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington, DC, USA, Feb.7-14, 2023.
+41. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington DC, USA, Feb.7-14, 2023.
 40. Jiawei Wang, Tianyu Song, Yan Zhang, Shengmin Wang, Wenhui Lin, Zhigang Wang and **Yuanyuan Qiao**\*, *Decoupled Teacher for Semi-Supervised Drone Detection*, 2022 IEEE the 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022.12.9-12
 39. YaoChen, Biao Zhang, Zhen Li, **Yuanyuan Qiao**, *Ship Detection with Optical Image Based on Attention and Loss Improved YOLO*, 2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022), Chengdu, China, 2022.7.22-24
 38. Mingwei Xu, Yu Zhou, **Yuanyuan Qiao**, Kai Xu, Yu Wang, Jie Yang, *ECRaft: A Raft Based Consensus Protocol for Highly Available and Reliable Erasure-Coded Storage Systems*, 2021 27th International Conference on Parallel and Distributed Systems.(ICPADS), Beijing, China, 2021.12.13-16
