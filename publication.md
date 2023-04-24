@@ -6,7 +6,7 @@ layout: default
 
 ## Highlights
 
-9. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2023survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
+9. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, IEEE Transactions on Intelligent Transportation Systems. 2023, 24(4):3678-3701. [PDF](\publications\journal\qiao2023survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
 8. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington DC, USA, Feb.7-14, 2023.
 7. **Yuanyuan Qiao**\*, Yuewei Wu, Fan Duo, Wenhui Lin, and Jie Yang\*, *Siamese Neural Networks for User Identity Linkage Through Web Browsing*, IEEE Transactions on Neural Networks and Learning Systems, 2020, 31(8): 2741-2751. [PDF](\publications\journal\qiao2019siamese.pdf)
 6. **Yuanyuan Qiao**\*, Zhizhuang Xing, Zubair Md. Fadlullah, Jie Yang, and Nei Kato, *Characterizing Flow, Application, and User Behavior in Mobile Networks - A Framework for Mobile Big Data*, IEEE Wireless Communications, 2018, 25(1): 40-49. [PDF](\publications\journal\qiao2018characterizing.pdf)
@@ -18,7 +18,7 @@ layout: default
 
 ## Full Journal Paper Lists
 
-24. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, IEEE Transactions on Intelligent Transportation Systems. [PDF](\publications\journal\qiao2023survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
+24. **Yuanyuan Qiao**\*, Jiaxin Yin, Wei Wang\*, Fábio Duarte, Jie Yang, Carlo Ratti, *Survey of Deep Learning for Autonomous Surface Vehicles in the Marine Environment*, IEEE Transactions on Intelligent Transportation Systems. 2023, 24(4):3678-3701. [PDF](\publications\journal\qiao2023survey.pdf), [Appendix](\publications\journal\qiao2022survey_appendix.pdf)
 23. Qing Miao, Min Li, Wenhui Lin, Zhigang Wang, Huiqin Shao, Junwei Xie, NanFei Shu and **Yuanyuan Qiao**\*, *Human mobility prediction with calibration for noisy trajectories*, Electronics, 2022, 11(20): 3362.
 22. Ce Li, Qiujian Lv, Ning Li, Yan Wang\*, Degang Sun, **Yuanyuan Qiao**, *A novel deep framework for dynamic malware detection based on API sequence intrinsic features*, Computers & Security, 2022, 116: 102686. [PDF](\publications\journal\li2022novel.pdf)
 21. Didi Yin, Siyuan Cheng, Boxu Pan, **Yuanyuan Qiao**, Wei Zhao, Dongyu Wang*. *Chinese Named Entity Recognition Based on Knowledge Based Question Answering System*, Applied Sciences, 2022, 12(11): 5373. [PDF](\publications\journal\yin2022chinese.pdf)
