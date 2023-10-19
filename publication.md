@@ -44,7 +44,8 @@ layout: default
 1.  **Yuanyuan Qiao**\*, Zhenming Lei, Lun Yuan, and Minjie Guo, *Offline traffic analysis system based on Hadoop*, The Journal of China Universities of Posts and Telecommunications. 2013, 20(5):97-103 
 
 ## Full Conference Paper List
-
+44. Yongkang Zhao, Yuan Li, Chuang Zhu, Shuaishuai Wang, Zihan Lan, Yuanyuan Qiao.*An Adaptive Spatial-Temporal Local Feature Difference Method for Infrared Small-moving Target Detection*, 2023 8th IEEE International Conference on Network Intelligence and Digital Content (IEEE IC-NIDC 2023), Beijing, China, 3 November 2023 - 5 November 2023.
+43. Runfeng Yao，Weisheng Xu，Zhenyu Liu，Yang Wang，Zhen Li，**Yuanyuan Qiao**，Jie Yang. *ReDRec: Relation and Dynamic aware Graph Convolutional Network for sequential recommendation*, 2023 8th IEEE International Conference on Network Intelligence and Digital Content(IEEE IC-NIDC), Beijing, China, 3 Nov 2023 - 05 Nov 2023.
 42. Wei Wang, Xiaojing Cao, Alejandro Gonzalez-Garcia, Lianhao Yin, Niklas Hagemann, Yuanyuan Qiao, Carlo Ratti, Daniela Rus. *Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters*, 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 29 May 2023 - 02 June 2023.
 41. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington DC, USA, Feb.7-14, 2023.
 40. Jiawei Wang, Tianyu Song, Yan Zhang, Shengmin Wang, Wenhui Lin, Zhigang Wang and **Yuanyuan Qiao**\*, *Decoupled Teacher for Semi-Supervised Drone Detection*, 2022 IEEE the 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022.12.9-12
