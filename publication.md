@@ -45,6 +45,7 @@ layout: default
 
 ## Full Conference Paper List
 
+42. Wei Wang, Xiaojing Cao, Alejandro Gonzalez-Garcia, Lianhao Yin, Niklas Hagemann, Yuanyuan Qiao, Carlo Ratti, Daniela Rus. *Deep Reinforcement Learning Based Tracking Control of an Autonomous Surface Vessel in Natural Waters*, 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 29 May 2023 - 02 June 2023.
 41. Huajie Chen, Jiyuan He, Weisheng Xu, Tao Feng, Ming Liu, Tianyu Song, Runfeng Yao, **Yuanyuan Qiao**\*, *Enhanced Multi-Relationships Integration Graph Convolutional Network for Inferring Substitutable and Complementary Items*, The 37th AAAI conference on Artificial Intelligence (AAAI 2023), Washington DC, USA, Feb.7-14, 2023.
 40. Jiawei Wang, Tianyu Song, Yan Zhang, Shengmin Wang, Wenhui Lin, Zhigang Wang and **Yuanyuan Qiao**\*, *Decoupled Teacher for Semi-Supervised Drone Detection*, 2022 IEEE the 8th International Conference on Computer and Communications (ICCC), Chengdu, China, 2022.12.9-12
 39. YaoChen, Biao Zhang, Zhen Li, **Yuanyuan Qiao**, *Ship Detection with Optical Image Based on Attention and Loss Improved YOLO*, 2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022), Chengdu, China, 2022.7.22-24
