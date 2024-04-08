@@ -4,15 +4,15 @@ layout: default
 
 <img class="profile-picture" src="YUANYUAN_photo.jpg">
 
-Yuanyuan Qiao is an associate professor in the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. She is also a member of Intelligent Perception and Computing Research Center, and Artificial Intelligence Institute of BUPT. She was a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of Massachusetts Institute of Technology (MIT) during 2019 and 2020.
+Yuanyuan Qiao is a professor in the School of Artificial Intelligence, [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/), Beijing, China. She is also a member of Intelligent Perception and Computing Research Center, and Artificial Intelligence Institute of BUPT. She was a visiting scholar in [Senseable City Laboratory](http://senseable.mit.edu/) of Massachusetts Institute of Technology (MIT) during 2019 and 2020.
 
 Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu 
 
 ## Research Interest
 
-- User behavior analysis in multiple scenarios
+- Anomaly detection
 - Big data analysis in Internet and Telecom
-- Towards artificial situation awareness by autonomous surface vehicle
+- User behavior analysis in multiple scenarios
 
 ## Teaching
 
@@ -24,7 +24,8 @@ Contact me with: yyqiao AT bupt "dot" edu "dot" cn or qiaoy AT mit "dot" edu
 
 ## Experience
 
-- Associate Professor, School of Artificial Intelligence, BUPT, 01/2020 - Present
+- Professor, School of Artificial Intelligence, BUPT, 12/2023 - Present
+- Associate Professor, School of Artificial Intelligence, BUPT, 01/2020 - 12/2023
 - Visiting Scholar, Department of Urban Studies and Planning, MIT, 09/2019 - 10/2020
 - Associate Professor, School of Information and Communication Engineering, BUPT, 12/2017 - 01/2020
 - Assistant Professor, School of Information and Communication Engineering, BUPT, 07/2014 - 12/2017 
@@ -41,6 +42,10 @@ Ph.D., Signal and Information Processing, 09/2009 - 06/2014
 B.A., Electronic Information Engineering, 09/2005 - 06/2009
 
 ## Awards
+
+#### 2022 Xinjiang Science and Technology Progress Award
+
+- Second prize, ranked fourth among the nine participants
 
 #### 2020 Beijing Science and Technology Progress Award
 
